@@ -1,0 +1,24 @@
+{
+  "name": "kml2stops",
+  "version": "1.0.0",
+  "description": "A simple node.js command application to convert .kml files to stops.txt to get one of the most important file in GTFS files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmahrous/kml2stops.git"
+  },
+  "keywords": [
+    "kml",
+    "gtfs",
+    "stops.txt"
+  ],
+  "author": "M.Mahrous <m.mahrous.94@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmahrous/kml2stops/issues"
+  },
+  "homepage": "https://github.com/mmahrous/kml2stops"
+}
