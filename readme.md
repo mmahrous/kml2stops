@@ -12,5 +12,5 @@ then run the command
 node app.js {path to your .kml file}
 ````
 the result will be stored in result directory in a folder with the timestamp
-
+> Sorry for that but you will need to enter the stop_id manually for now until the script get smarter 
 contact me if any errors show up to you m.mahrous.94@gmail.com

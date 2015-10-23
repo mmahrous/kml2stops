@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mmahrous/kml2stops/issues"
   },
-  "homepage": "https://github.com/mmahrous/kml2stops"
+  "homepage": "https://github.com/mmahrous/kml2stops",
+  "dependencies": {
+    "xml2js": "^0.4.13"
+  }
 }

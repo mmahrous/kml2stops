@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Metro Stops</name>
+		<Placemark>
+			<name>Helwan</name>
+			<description><![CDATA[Helwan Station-Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.334252,29.848824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ain Helwan</name>
+			<description><![CDATA[Ain Helwan Station-Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.325025999999998,29.862604000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helwan University </name>
+			<description><![CDATA[Helwan University  Station-Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.320004499999996,29.8694521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wadi Hof</name>
+			<description><![CDATA[Wadi Hof station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.313438399999995,29.879053000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hadayek Helwan</name>
+			<description><![CDATA[Hadayek Helwan station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.30404,29.897192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Maasara</name>
+			<description><![CDATA[El-Maasara Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2995338,29.906362200000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tora El-Asmant</name>
+			<description><![CDATA[Tora El-Asmant - Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2875497,29.9259651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kozzika</name>
+			<description><![CDATA[Kozzika Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.281423599999997,29.9364531,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tora El-Balad</name>
+			<description><![CDATA[Tora El-Balad Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.272883399999998,29.9467168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakanat El-Maadi</name>
+			<description><![CDATA[Sakanat El-Maadi Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.262964599999997,29.9533078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maadi</name>
+			<description><![CDATA[Maadi Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2577343,29.960298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hadayek El-Maadi</name>
+			<description><![CDATA[Hadayek El-Maadi Station-Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2508303,29.9697833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dar El-Salam</name>
+			<description><![CDATA[Dar El-Salam Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2420434,29.981985900000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Zahraa'</name>
+			<description><![CDATA[El-Zahraa' Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2312341,29.995538999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mar Girgis</name>
+			<description><![CDATA[Mar Girgis Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2295818,30.0061683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Malek El-Saleh</name>
+			<description><![CDATA[El-Malek El-Saleh Station- Metro (line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.231175100000005,30.0177162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AlSayeda Zeinab</name>
+			<description><![CDATA[AlSayeda Zeinab Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.235429,30.029239999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saad Zaghloul</name>
+			<description><![CDATA[Saad Zaghloul Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2378216,30.035667100000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sadat</name>
+			<description><![CDATA[Sadat Station- Interchange between Line 1 and Line 2]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.23566,30.043924000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nasser </name>
+			<description><![CDATA[Nasser Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2386477,30.0534568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orabi</name>
+			<description><![CDATA[Orabi Station-Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2423062,30.0570274,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Al Shohadaa </name>
+			<description><![CDATA[Al Shohadaa Station- Interchange between Line 1 and Line 2]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.246286999999995,30.061639500000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ghamra</name>
+			<description><![CDATA[Ghamra Station- Metro (line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2646759,30.068931500000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Demerdash</name>
+			<description><![CDATA[El-Demerdash Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.277861600000005,30.0771948,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manshiet El-Sadr</name>
+			<description><![CDATA[Manshiet El-Sadr Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2875497,30.081980700000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kobri El-Qobba</name>
+			<description><![CDATA[Kobri El-Qobba Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2941319,30.087198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hammamat El-Qobba </name>
+			<description><![CDATA[Hammamat El-Qobba Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.299008099999998,30.091189700000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saray El-Qobba</name>
+			<description><![CDATA[Saray El-Qobba Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.304469099999995,30.097719999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hadayeq El-Zaitoun</name>
+			<description><![CDATA[Hadayeq El-Zaitoun Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.310396800000003,30.1059577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Helmeyet El-Zaitoun</name>
+			<description><![CDATA[Helmeyet El-Zaitoun Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.3139963,30.1132481,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Matareyya</name>
+			<description><![CDATA[El-Matareyya Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.313733500000005,30.1208952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ain Shams</name>
+			<description><![CDATA[Ain Shams Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.3191247,30.131000700000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ezbet El-Nakhl</name>
+			<description><![CDATA[Ezbet El-Nakhl Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.324623200000005,30.139221699999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Marg</name>
+			<description><![CDATA[El-Marg Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.335813399999996,30.1521131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New El-Marg</name>
+			<description><![CDATA[New El-Marg Station- Metro (Line 1)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.338335000000004,30.163550999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Mounib</name>
+			<description><![CDATA[El-Mounib - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2123084,29.9810333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakiat Mekki</name>
+			<description><![CDATA[Sakiat Mekki - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2084889,29.995566900000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El-Giza</name>
+			<description><![CDATA[El-Giza - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2070513,30.0106557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Faisal</name>
+			<description><![CDATA[Faisal - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.203746800000005,30.017493200000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cairo University</name>
+			<description><![CDATA[Cairo University - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.200871500000005,30.026151,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bohooth</name>
+			<description><![CDATA[Bohooth - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.200254999999995,30.035840000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dokki</name>
+			<description><![CDATA[Dokki - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2122431,30.038466500000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Opera</name>
+			<description><![CDATA[Opera - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.224989899999997,30.041931700000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mohamed Naguib</name>
+			<description><![CDATA[Mohamed Naguib - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2441516,30.0453402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Attaba</name>
+			<description><![CDATA[Attaba - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2467963,30.052351700000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Masarra</name>
+			<description><![CDATA[Masarra - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2451011,30.0708952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rod El Farag</name>
+			<description><![CDATA[Rod El Farag - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2454015,30.0805881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Teresa</name>
+			<description><![CDATA[St. Teresa - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2454927,30.087956900000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khalafawy</name>
+			<description><![CDATA[Khalafawy - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.244999200000002,30.0978453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mezallat</name>
+			<description><![CDATA[Mezallat - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2455678,30.1040735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kolleyyet El-Zeraa</name>
+			<description><![CDATA[Kolleyyet El-Zeraa - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.248754299999998,30.113661099999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shubra El-Kheima</name>
+			<description><![CDATA[Shubra El-Kheima - Metro (Line 2)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.244688000000004,30.1225145,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fair Zone</name>
+			<description><![CDATA[Fair Zone - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.30062999999996,30.072963000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koleyet El Banat </name>
+			<description><![CDATA[Koleyet El Banat - Metro (Line 3) ]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.329012000000034,30.084163000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stadium</name>
+			<description><![CDATA[Stadium - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.317338000000063,30.072742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Al Ahram</name>
+			<description><![CDATA[Al Ahram - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.326344999999947,30.09183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abbassiya</name>
+			<description><![CDATA[Abbassiya - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.280779800000005,30.069762500000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abdou Pasha</name>
+			<description><![CDATA[Abbassiya - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.274853,30.064673,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Geish</name>
+			<description><![CDATA[EL Geish - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.266960000000005,30.061715999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bab el Shaaria</name>
+			<description><![CDATA[Bab el Shaaria - Metro (Line 3)]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.2560177,30.053902600000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
